@@ -11,7 +11,7 @@
 >5. Show the peak times of the day for bike usage.
 
 ## Results
-![](Resources/Customers.jpg)
+![](Resources/Customers.png)
 "Full Page"
 ![](static/images/filter_image.png)
 "Filter Boxes"
