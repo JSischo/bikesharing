@@ -13,13 +13,16 @@
 ## Results
 ![](Resources/Customers.png)
 "Full Page"
-![](static/images/filter_image.png)
+![](Resources/August_peak_hours.png)
 "Filter Boxes"
 
-![](static/images/syntax_image.png)
+![](Resources/Checkout_times.png)
 "Proper Syntax placeholders"
-![](static/images/filtered_results.png)
-![](static/images/refresh_link.png)
+![](Resources/Checkout_times_gender.png)
+![](Resources/Trips_weekday_hour.png)
+![](Resources/Trips_weekday_hour_gender.png)
+![](Resources/Trips_weekday_hour_gender_user.png)
+
 
 ## Summary
 [link to dashboard](https://public.tableau.com/profile/jeff3975#!/vizhome/JSischo_CitiBike_Challenge/CheckoutTimesforUsers "link to dashboard")
