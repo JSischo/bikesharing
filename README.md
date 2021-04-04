@@ -4,10 +4,9 @@
 >The purpose of this analysis was to analyze New York City bike sharing data and present a summary using Tableau to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 >For this analysis I created a set of visualizations to:
-
->-Show the length of time that bikes are checked out for all riders and genders
->-Show the number of bike trips for all riders and genders for each hour of each day of the week
->-Show the number of bike trips for each type of user and gender for each day of the week.
+>1. Show the length of time that bikes are checked out for all riders and genders
+>2. Show the number of bike trips for all riders and genders for each hour of each day of the week
+>3. Show the number of bike trips for each type of user and gender for each day of the week.
 >Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 ## Results
