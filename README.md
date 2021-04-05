@@ -26,7 +26,7 @@
 >The graph above reveals the amount of time checked out per each ride broken down by gender.
 
 ![](Resources/Trips_weekday_hour.png)
->The heatmap above indicates the times of day by weekday that each trip was taken. The greener the the block, the higher number of rides.
+>The heatmap above indicates the times of day by weekday that each trip was taken. The greener the block, the higher number of rides.
 
 ![](Resources/Trips_weekday_hour_gender.png)
 >The heatmap above is similar to the previous one, except it is filterable by gender of the rider. The more orange the block, the higher number of rides that hour/day.
@@ -35,4 +35,8 @@
 >This final heatmap reports the number of riders per day of the week broken down by both customer typer and gender. The deeper the blue, the higher the number of rides.
 
 ## Summary
+### The link below will take you to the various analysis graphs that were created and the final Storyboard.
 [link to dashboard](https://public.tableau.com/profile/jeff3975#!/vizhome/JSischo_CitiBike_Challenge/CheckoutTimesforUsers "link to dashboard")
+
+When looking at the data from the NYC bikesharing data, we can get a sense of what type of user we can target in Des Moines. Some of the compelling data gives us the following conclusions and possible assumptions:
+1. 
