@@ -12,7 +12,7 @@
 
 ## Results
 ![](Resources/Customers.png)
-"Full Page"
+>The chart above shows the breakdown of the 2 user types: Customer(non-subscriber) and Subscriber(annual subscription user)
 ![](Resources/August_peak_hours.png)
 "Filter Boxes"
 
