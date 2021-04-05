@@ -38,5 +38,7 @@
 ### The link below will take you to the various analysis graphs that were created and the final Storyboard.
 [link to dashboard](https://public.tableau.com/profile/jeff3975#!/vizhome/JSischo_CitiBike_Challenge/CheckoutTimesforUsers "link to dashboard")
 
-When looking at the data from the NYC bikesharing data, we can get a sense of what type of user we can target in Des Moines. Some of the compelling data gives us the following conclusions and possible assumptions:
-1. 
+When looking at the data from the NYC bikesharing data, we can get a high level sense of what type of user we can target in Des Moines. Some of the compelling data gives us the following conclusions and possible assumptions:
+- The breakdown of user type is overwhelmingly in favor of the subscriber, about 81%. This would seem to indicate that the majority of the users are not tourists and most likely residents of NYC.
+- The peak hours of usage are 5-7 PM and 8 AM. Again indicating that maybe the main user is someone who works in the area of the bike rental as those are typical work day commutes. This is further reinforced by the graph that represents the various length of times that each ride took. The overwhelming majority of rides were between 1 and 24 minutes. Most likely a short commute to work and back. 
+- 
